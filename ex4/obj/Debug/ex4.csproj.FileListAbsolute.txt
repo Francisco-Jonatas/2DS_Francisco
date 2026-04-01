@@ -1,0 +1,7 @@
+C:\Users\lab2081\source\repos\2DS_Atividade\ex4\bin\Debug\ex4.exe.config
+C:\Users\lab2081\source\repos\2DS_Atividade\ex4\bin\Debug\ex4.exe
+C:\Users\lab2081\source\repos\2DS_Atividade\ex4\bin\Debug\ex4.pdb
+C:\Users\lab2081\source\repos\2DS_Atividade\ex4\obj\Debug\ex4.csproj.AssemblyReference.cache
+C:\Users\lab2081\source\repos\2DS_Atividade\ex4\obj\Debug\ex4.csproj.CoreCompileInputs.cache
+C:\Users\lab2081\source\repos\2DS_Atividade\ex4\obj\Debug\ex4.exe
+C:\Users\lab2081\source\repos\2DS_Atividade\ex4\obj\Debug\ex4.pdb

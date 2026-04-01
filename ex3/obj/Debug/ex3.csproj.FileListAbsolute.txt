@@ -1,0 +1,8 @@
+C:\Users\lab2081\source\repos\2DS_Atividade\ex3\bin\Debug\ex3.exe.config
+C:\Users\lab2081\source\repos\2DS_Atividade\ex3\bin\Debug\ex3.exe
+C:\Users\lab2081\source\repos\2DS_Atividade\ex3\bin\Debug\ex3.pdb
+C:\Users\lab2081\source\repos\2DS_Atividade\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\lab2081\source\repos\2DS_Atividade\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\lab2081\source\repos\2DS_Atividade\ex3\obj\Debug\ex3.exe
+C:\Users\lab2081\source\repos\2DS_Atividade\ex3\obj\Debug\ex3.pdb
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex3\obj\Debug\ex3.exe.config

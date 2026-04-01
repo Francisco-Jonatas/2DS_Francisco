@@ -1,0 +1,7 @@
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex8\bin\Debug\ex8.exe.config
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex8\bin\Debug\ex8.exe
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex8\bin\Debug\ex8.pdb
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex8\obj\Debug\ex8.csproj.AssemblyReference.cache
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex8\obj\Debug\ex8.csproj.CoreCompileInputs.cache
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex8\obj\Debug\ex8.exe
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex8\obj\Debug\ex8.pdb
