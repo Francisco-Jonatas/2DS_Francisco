@@ -1,0 +1,8 @@
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex7\bin\Debug\ex7.exe.config
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex7\bin\Debug\ex7.exe
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex7\bin\Debug\ex7.pdb
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex7\obj\Debug\ex7.csproj.AssemblyReference.cache
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex7\obj\Debug\ex7.csproj.CoreCompileInputs.cache
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex7\obj\Debug\ex7.exe
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex7\obj\Debug\ex7.pdb
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex7\obj\Debug\ex7.exe.config
