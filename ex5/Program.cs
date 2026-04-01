@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CA0104;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,9 +11,10 @@ namespace ex5
     {
         static void Main(string[] args)
         {
-            Termperatura Calculo = new Termperatura();
-            Calculo.celsius();
-
+            Termometro term = new Termometro();
+            term.solicitarTempCelsius();
+            term.converter();
+            term.exibirConversao();
         }
     }
 }

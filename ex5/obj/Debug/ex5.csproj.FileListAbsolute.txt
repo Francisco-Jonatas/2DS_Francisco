@@ -5,3 +5,4 @@ C:\Users\lab2081\source\repos\2DS_Atividade\ex5\obj\Debug\ex5.csproj.AssemblyRef
 C:\Users\lab2081\source\repos\2DS_Atividade\ex5\obj\Debug\ex5.csproj.CoreCompileInputs.cache
 C:\Users\lab2081\source\repos\2DS_Atividade\ex5\obj\Debug\ex5.exe
 C:\Users\lab2081\source\repos\2DS_Atividade\ex5\obj\Debug\ex5.pdb
+C:\Users\lab2081\source\repos\2DS_ATIVIDADE\ex5\obj\Debug\ex5.exe.config
