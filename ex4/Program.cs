@@ -10,8 +10,10 @@ namespace ex4
     {
         static void Main(string[] args)
         {
-            Media media = new Media();
-            media.Calculo();
+            Calculadora casio = new Calculadora();
+            casio.media(casio.solicitarNota(), casio.solicitarNota(), casio.solicitarNota());
+            casio.avaliar();
+            Console.ReadKey();
         }
     }
 }
