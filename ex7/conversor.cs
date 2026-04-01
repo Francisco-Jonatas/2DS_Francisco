@@ -12,7 +12,7 @@ namespace ex7
         {
             Console.Write("Digite o valor em dólares: ");
             double dolar = double.Parse(Console.ReadLine());
-            double taxa = 5.4f;
+            double taxa = 5.4;
             double real = dolar * taxa;
             Console.WriteLine("Valor em reais R$:" +real);
         }
